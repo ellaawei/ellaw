@@ -1,4 +1,4 @@
-# Ella Wei — Portfolio Website ♡
+# Portfolio ♡
 
 A static, multi-page portfolio ready for GitHub Pages.
 
